@@ -1,6 +1,9 @@
 Introduction
 A Gym Management System (GMS) is a special type of software created to cater to the needs of a particular fitness center. It aids in the proper maintenance of a member’s records. The application helps associated staff and even owners in keeping track of all members which includes tracking memberships, renewals as well as streamlining operations. In this project, we construct a simple yet effective desktop GUI application using Java Swing.
 
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Time-Table-Generator-with-java/blob/main/Screenshotofproject.PNG)
+
+
 Goals:
 
 Track issues of gym members.
